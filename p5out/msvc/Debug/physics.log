@@ -1,0 +1,48 @@
+﻿生成启动时间为 2017/10/5 20:22:57。
+     1>项目“C:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\physics.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual studio\VC\bin\CL.exe /c /IC:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\include /IC:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\..\src /ZI /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\physics\physics.cpp ..\src\physics\spherebody.cpp ..\src\physics\spring.cpp
+         spring.cpp
+         spherebody.cpp
+     1>c:\users\lenovo\desktop\download\physicalengine_392005013\physicalengine\p5out\src\physics\spherebody.cpp(64): warning C4100: “motion_damping”: 未引用的形参
+         physics.cpp
+     1>c:\users\lenovo\desktop\download\physicalengine_392005013\physicalengine\p5out\src\physics\physics.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lenovo\desktop\download\physicalengine_392005013\physicalengine\p5out\src\physics\physics.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lenovo\desktop\download\physicalengine_392005013\physicalengine\p5out\src\physics\physics.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lenovo\desktop\download\physicalengine_392005013\physicalengine\p5out\src\physics\physics.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\lenovo\desktop\download\physicalengine_392005013\physicalengine\p5out\src\physics\physics.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         E:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\Debug\physics.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\lib SDL.lib SDLmain.lib libpng.lib OpenGL32.lib glu32.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\Debug\physics.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\Debug\physics.lib" /MACHINE:X86 /SAFESEH Debug\application.obj
+         Debug\imageio.obj
+         Debug\scene_loader.obj
+         Debug\camera_roam.obj
+         Debug\collisions.obj
+         Debug\physics.obj
+         Debug\spherebody.obj
+         Debug\planebody.obj
+         Debug\trianglebody.obj
+         Debug\spring.obj
+         Debug\main.obj
+         Debug\camera.obj
+         Debug\color.obj
+         Debug\math.obj
+         Debug\matrix.obj
+         Debug\quaternion.obj
+         Debug\vector.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\material.obj
+         Debug\geometry.obj
+         Debug\mesh.obj
+         Debug\model.obj
+         Debug\scene.obj
+         Debug\sphere.obj
+         Debug\triangle.obj
+         physics.vcxproj -> C:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\Debug\physics.exe
+     1>已完成生成项目“C:\Users\LENOVO\Desktop\download\PhysicalEngine_392005013\PhysicalEngine\p5out\msvc\physics.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.51

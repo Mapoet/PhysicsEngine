@@ -42,13 +42,13 @@
 
 ### 3. 实验效果：
 
-* collision:![collision](test_gif\collision.gif)
-* collision_stress:![collision_stress](test_gif\collision_stress.gif)
-* damping_test:![damping_test](test_gif\damping_test.gif)
-* newtons_cradle:![newtons_cradle](test_gif\newtons_cradle.gif)
-* rotation_test:![rotation_test](test_gif\rotation_test.gif)
-* spring_rotation:![spring_rotation](test_gif\spring_rotation.gif)
-* pool:![pool](test_gif\pool.gif)
+* collision:![collision](test_gif/collision.gif)
+* collision_stress:![collision_stress](test_gif/collision_stress.gif)
+* damping_test:![damping_test](test_gif/damping_test.gif)
+* newtons_cradle:![newtons_cradle](test_gif/newtons_cradle.gif)
+* rotation_test:![rotation_test](test_gif/rotation_test.gif)
+* spring_rotation:![spring_rotation](test_gif/spring_rotation.gif)
+* pool:![pool](test_gif/pool.gif)
 * 注：在实现pool时修改了scene文件，为母球添加了纵向的初速度
 
 ### 4. 实验环境：
